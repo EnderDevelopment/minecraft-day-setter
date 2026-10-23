@@ -1,0 +1,8 @@
+name: SetDayPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  setday:
+    description: Sets the time to day.
+    usage: /setday
